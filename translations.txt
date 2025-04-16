@@ -157,3 +157,12 @@ ka
 არა
 მთარგმნელი <a href="https://www.facebook.com/razmikecg">რაზმიკ ბადალიანი</a>
 original in English
+
+th
+Thai
+./th.html
+อยากอ่านด้วยภาษาไทยมั้ย?
+เอาดิ!
+ไม่อ่ะ
+แปลโดย <a href="https://github.com/wmCmo">wmcmo</a>
+ต้นฉบับภาษาอังกฤษ
